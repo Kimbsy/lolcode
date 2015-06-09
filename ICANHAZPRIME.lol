@@ -1,7 +1,7 @@
 OBTW 
   I HAZ A PROGRMA ITZ CHECK 4 PRIMES
     HOW DUZ I?:
-          lci iCanHazPrime.lol
+          lci ICANHAZPRIME.lol
 TLDR
 HAI 1.2
   HOW IZ I SQRT YR X
